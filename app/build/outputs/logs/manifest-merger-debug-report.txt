@@ -1,0 +1,418 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:1-318:12
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:1-318:12
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:1-318:12
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:1-318:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\5e0896a4e49e7160b227b1bb9f1472c7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\139299558ed6b6f2ef87725120de5f3e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\63d5c20dc5bdbde60a250e58352fd7e5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\6fa88084c73e58412e92e98de5f08161\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\08d1fb07b1f81210b7826009d0812fda\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5a1e2cfc2bba0bedd077652c96ea73d9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b9e3e1e955a1bbdd30b590ea557aeda9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47de9a7e8ede1890fefbd34cc73539cd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\dd8d8847908196c0600866b209012e62\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:1-318:12
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:1-318:12
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:1-318:12
+	package
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\5e0896a4e49e7160b227b1bb9f1472c7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\5e0896a4e49e7160b227b1bb9f1472c7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\139299558ed6b6f2ef87725120de5f3e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\139299558ed6b6f2ef87725120de5f3e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\63d5c20dc5bdbde60a250e58352fd7e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\63d5c20dc5bdbde60a250e58352fd7e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\6fa88084c73e58412e92e98de5f08161\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\6fa88084c73e58412e92e98de5f08161\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\08d1fb07b1f81210b7826009d0812fda\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\08d1fb07b1f81210b7826009d0812fda\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5a1e2cfc2bba0bedd077652c96ea73d9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5a1e2cfc2bba0bedd077652c96ea73d9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b9e3e1e955a1bbdd30b590ea557aeda9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b9e3e1e955a1bbdd30b590ea557aeda9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47de9a7e8ede1890fefbd34cc73539cd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47de9a7e8ede1890fefbd34cc73539cd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\dd8d8847908196c0600866b209012e62\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\dd8d8847908196c0600866b209012e62\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\5e0896a4e49e7160b227b1bb9f1472c7\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.CAMERA
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:17:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:20:19-67
+application
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:23:5-316:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\5e0896a4e49e7160b227b1bb9f1472c7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\5e0896a4e49e7160b227b1bb9f1472c7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\139299558ed6b6f2ef87725120de5f3e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\139299558ed6b6f2ef87725120de5f3e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\63d5c20dc5bdbde60a250e58352fd7e5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\63d5c20dc5bdbde60a250e58352fd7e5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\6fa88084c73e58412e92e98de5f08161\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\6fa88084c73e58412e92e98de5f08161\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\08d1fb07b1f81210b7826009d0812fda\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\08d1fb07b1f81210b7826009d0812fda\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5a1e2cfc2bba0bedd077652c96ea73d9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5a1e2cfc2bba0bedd077652c96ea73d9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b9e3e1e955a1bbdd30b590ea557aeda9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b9e3e1e955a1bbdd30b590ea557aeda9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47de9a7e8ede1890fefbd34cc73539cd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47de9a7e8ede1890fefbd34cc73539cd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\dd8d8847908196c0600866b209012e62\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\dd8d8847908196c0600866b209012e62\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:27:9-53
+activity#com.qiniu.qiniulab.activity.QiniuLabMainActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:31:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.ipaulpro.afilechooser.FileChooserActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:41:9-55:20
+	android:enabled
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:46:13-48
+	android:exported
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:44:13-36
+	android:icon
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:45:13-48
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:42:13-73
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:47:13-54:29
+action#android.intent.action.GET_CONTENT
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:48:25-73
+category#android.intent.category.DEFAULT
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:50:27-73
+category#android.intent.category.OPENABLE
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:51:27-74
+data
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:53:17-48
+	android:mimeType
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:53:23-45
+activity#com.qiniu.qiniulab.activity.AboutActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:56:9-63:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:59:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:58:13-46
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:57:13-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:60:13-62:84
+	android:value
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:62:17-81
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:61:17-63
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadWithoutKeyActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:66:9-74:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:70:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:69:13-77
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:68:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:67:13-75
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadWithKeyActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:77:9-85:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:81:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:80:13-74
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:79:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:78:13-72
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadUseSaveKeyActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:88:9-96:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:92:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:91:13-78
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:90:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:89:13-75
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadUseSaveKeyFromXParamActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:99:9-107:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:103:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:102:13-90
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:101:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:100:13-85
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadUseReturnBodyActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:110:9-118:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:114:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:113:13-81
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:112:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:111:13-78
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadOverwriteExistingFileActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:121:9-129:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:125:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:124:13-89
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:123:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:122:13-86
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadUseFsizeLimitActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:132:9-140:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:136:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:135:13-81
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:134:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:133:13-78
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadUseMimeLimitActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:143:9-151:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:147:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:146:13-80
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:145:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:144:13-77
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadWithMimeTypeActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:154:9-162:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:158:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:157:13-80
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:156:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:155:13-77
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadEnableCrc32CheckActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:165:9-173:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:169:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:168:13-84
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:167:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:166:13-81
+activity#com.qiniu.qiniulab.activity.upload.SimpleUploadUseEndUserActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:176:9-184:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:180:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:179:13-77
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:178:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:177:13-75
+activity#com.qiniu.qiniulab.activity.upload.ResumableUploadWithoutKeyActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:187:9-195:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:191:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:190:13-80
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:189:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:188:13-78
+activity#com.qiniu.qiniulab.activity.upload.ResumableUploadWithKeyActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:198:9-206:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:202:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:201:13-77
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:200:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:199:13-75
+activity#com.qiniu.qiniulab.activity.upload.CallbackUploadWithKeyInUrlFormatActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:209:9-217:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:213:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:212:13-90
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:211:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:210:13-85
+activity#com.qiniu.qiniulab.activity.upload.CallbackUploadWithKeyInJsonFormatActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:220:9-228:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:224:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:223:13-91
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:222:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:221:13-86
+activity#com.qiniu.qiniulab.activity.video.AudioVideoPlayUseVideoViewListActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:231:9-239:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:235:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:234:13-53
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:233:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:232:13-82
+activity#com.qiniu.qiniulab.activity.video.AudioVideoPlayUseVideoViewActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:240:9-248:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:244:13-96
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:243:13-67
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:242:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:241:13-78
+activity#com.qiniu.qiniulab.activity.video.AudioVideoPlayUsePLDPlayerListActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:251:9-259:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:255:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:254:13-53
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:253:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:252:13-82
+activity#com.qiniu.qiniulab.activity.video.AudioVideoPlayUsePLDPlayerActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:260:9-268:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:264:13-96
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:263:13-67
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:262:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:261:13-78
+activity#com.qiniu.qiniulab.activity.image.SimpleImageViewActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:271:9-279:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:275:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:274:13-53
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:273:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:272:13-67
+activity#com.qiniu.qiniulab.activity.quick.QuickStartImageExampleActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:282:9-290:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:286:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:285:13-76
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:284:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:283:13-74
+activity#com.qiniu.qiniulab.activity.quick.QuickStartVideoExampleActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:291:9-299:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:295:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:294:13-76
+	android:configChanges
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:293:13-74
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:292:13-74
+activity#com.qiniu.qiniulab.activity.capture.CaptureImageActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:300:9-307:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:303:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:302:13-50
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:301:13-66
+activity#com.qiniu.qiniulab.activity.capture.CaptureVideoActivity
+ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:308:9-315:20
+	android:parentActivityName
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:311:13-72
+	android:label
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:310:13-50
+	android:name
+		ADDED from D:\qiniu-lab-android-master\QiniuLab\app\src\main\AndroidManifest.xml:309:13-66

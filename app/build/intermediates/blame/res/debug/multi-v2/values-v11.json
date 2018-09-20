@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\qiniu-lab-android-master\\QiniuLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\qiniu-lab-android-master\\QiniuLab\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "241"
+                    }
+                },
+                {
+                    "source": "D:\\qiniu-lab-android-master\\QiniuLab\\app\\src\\main\\res\\values-v11\\strings.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "656",
+                        "endColumns": "53",
+                        "endOffsets": "705"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\5e0896a4e49e7160b227b1bb9f1472c7\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,40,41,46,51,56,58,60,61,62,115,169",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2795,2898,3306,3726,4148,4255,4384,4455,4538,8469,12543",
+                        "endLines": "7,13,19,25,31,37,38,39,40,45,50,55,57,59,60,61,114,168,169",
+                        "endColumns": "12,12,12,12,12,12,88,100,102,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2790,2893,3301,3721,4143,4250,4379,4450,4533,8464,12538,12629"
+                    },
+                    "to": {
+                        "startLines": "6,12,18,24,30,36,42,43,44,45,50,55,60,62,64,65,66,119,173",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "246,665,1090,1518,1944,2371,2796,2885,2986,3089,3497,3917,4339,4446,4575,4646,4729,8660,12734",
+                        "endLines": "11,17,23,29,35,41,42,43,44,49,54,59,61,63,64,65,118,172,173",
+                        "endColumns": "12,12,12,12,12,12,88,100,102,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "660,1085,1513,1939,2366,2791,2880,2981,3084,3492,3912,4334,4441,4570,4641,4724,8655,12729,12820"
+                    }
+                }
+            ]
+        }
+    ]
+}
